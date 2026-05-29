@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from './components/common/Navbar';
+import Navbar from './components/common/Navbar.jsx';
 import HeroSection from './components/home/HeroSection';
 import StatsTracker from './components/home/StatsTracker';
 import About from './components/home/About';
